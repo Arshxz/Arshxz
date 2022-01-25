@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi human! 👋
 
 <!--
 **Arshxz/Arshxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 🔭 'm currently working on a lot of side projects!
+- 🌱 I’m currently learning React and Vue.
+- 👯 I’m looking to collaborate on Frontend web apps!
+- 🤔 I'm looking for help with React and Vue
+- 💬 Ask me about React, crypto and donuts
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have an [Insta] page(https://https://www.instagram.com/arsh.web/) filled with my inspo!
 -->
