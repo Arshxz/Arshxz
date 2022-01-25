@@ -13,17 +13,15 @@ who am i?
 - ⚡ Fun fact: I have an [Insta page](https://https://www.instagram.com/arsh.web/) filled with my inspo!
 
 ### My wonderful stats
-![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=Arshxz)
-
 
 ```
 {
-  "joined": "3 years ago",
+  "joined": "2 years ago",
   "repos": "7",
   "repos_contributed_to": "1",
-  "commits": "1752",
-  "stars": "334",
-  "issues": "25",
-  "pull_requests": "134"
+  "commits": "49",
+  "stars": "0",
+  "issues": "0",
+  "pull_requests": "16"
 }
 ```
