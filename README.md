@@ -1,10 +1,7 @@
 # Hi human! 👋
 
 <!--
-**Arshxz/Arshxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+who am i?
 
 - 🔭 'm currently working on a lot of side projects!
 - 🌱 I’m currently learning React and Vue.
@@ -15,3 +12,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an [Insta] page(https://https://www.instagram.com/arsh.web/) filled with my inspo!
 -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Arshxz)
