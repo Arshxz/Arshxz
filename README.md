@@ -2,7 +2,6 @@
 
 who am i?
 ![GitHub header](https://user-images.githubusercontent.com/55192108/151012546-9c2311c5-60e5-40d4-bdc5-194387898039.jpg)
-
 - 🔭 I'm currently working on a lot of [side projects](https://www.arsh.studio)!
 - 🌱 I’m currently learning React and Vue
 - 👯 I’m looking to collaborate on Frontend web apps!
@@ -12,7 +11,7 @@ who am i?
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an [Insta page](https://https://www.instagram.com/arsh.web/) filled with my inspo!
 
-### My wonderful stats
+### my wonderful stats
 
 ```
 {
@@ -24,4 +23,14 @@ who am i?
   "issues": "0",
   "pull_requests": "16"
 }
+```
+
+### my weekly development breakdown
+
+```
+React.js     2 hrs 29 mins   ████████████████░░░░░░░░░   65.38 % 
+Javascript   1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSX          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
