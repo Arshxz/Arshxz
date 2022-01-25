@@ -1,6 +1,5 @@
 # Hi human! 👋
 
-<!--
 who am i?
 
 - 🔭 'm currently working on a lot of side projects!
