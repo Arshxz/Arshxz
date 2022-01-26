@@ -1,7 +1,7 @@
 # Hi human! 👋
 
 who am i?
-![GitHub header](https://user-images.githubusercontent.com/55192108/151012546-9c2311c5-60e5-40d4-bdc5-194387898039.jpg)
+![GitHub header](https://user-images.githubusercontent.com/55192108/151107403-dc851fcd-a2af-4d26-9eed-9396ef0a079d.jpg)
 - 🔭 I'm currently working on a lot of [side projects](https://www.arsh.studio)!
 - 🌱 I’m currently learning React and Vue
 - 👯 I’m looking to collaborate on Frontend web apps!
