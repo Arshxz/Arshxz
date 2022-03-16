@@ -7,8 +7,8 @@ who am i?
 - 👯 I’m looking to collaborate on Frontend web apps!
 - 🤔 I'm looking for help with React and SEO
 - 💬 Ask me about React, crypto and donuts
-- 📫 How to reach me: [email](mailto:Arsh99.In@gmail.com?subject=Hi%20Human&body=What%20up%20dawgg!%20), [Linkedin](https://www.linkedin.com/in/arsh99in/) and [social](https://https://www.instagram.com/webdev3.0/)
-- ⚡ Fun fact: I have an [Insta page](https://https://www.instagram.com/webdev3.0/) filled with my inspo!
+- 📫 How to reach me: [email](mailto:Arsh99.In@gmail.com?subject=Hi%20Human&body=What%20up%20dawgg!%20), [Linkedin](https://www.linkedin.com/in/arsh99in/) and [social](https://www.instagram.com/webdev3.0/)
+- ⚡ Fun fact: I have an [Insta page](https://www.instagram.com/webdev3.0/) filled with my inspo!
 
 ### my wonderful stats
 
